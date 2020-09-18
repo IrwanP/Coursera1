@@ -1,3 +1,3 @@
 # Coursera1
-e-learning for Introduction to GIt and GitHub
+e-learning
 I am editing the README file. Adding some more details about the project description.
